@@ -1,0 +1,84 @@
+2021-06-17 12:55:16,624 - app.logger - INFO - ('id', 'UserEmail', 'searching... ')
+2021-06-17 12:55:16,635 - app.logger - INFO - ('id', 'UserEmail', 'found. ')
+2021-06-17 12:55:16,763 - app.logger - INFO - ('id', 'UserPass', 'searching... ')
+2021-06-17 12:55:16,771 - app.logger - INFO - ('id', 'UserPass', 'found. ')
+2021-06-17 12:55:16,816 - app.logger - INFO - ('id', 'Submit1', 'searching... ')
+2021-06-17 12:55:16,825 - app.logger - INFO - ('id', 'Submit1', 'found. ')
+2021-06-17 12:55:17,716 - app.logger - INFO - ('id', 'targetURL', 'searching... ')
+2021-06-17 12:55:17,726 - app.logger - INFO - ('id', 'targetURL', 'found. ')
+2021-06-17 12:55:17,740 - app.logger - INFO - ('id', 'targetURL', 'searching... ')
+2021-06-17 12:55:17,746 - app.logger - INFO - ('id', 'targetURL', 'found. ')
+2021-06-17 12:55:17,756 - app.logger - INFO - ('css selector', 'option[value ="SIT76"]', 'searching... ')
+2021-06-17 12:55:17,764 - app.logger - INFO - ('css selector', 'option[value ="SIT76"]', 'found. ')
+2021-06-17 12:55:17,796 - app.logger - INFO - ('id', 'JsonFiles', 'searching... ')
+2021-06-17 12:55:17,806 - app.logger - INFO - ('id', 'JsonFiles', 'found. ')
+2021-06-17 12:55:17,818 - app.logger - INFO - ('css selector', 'option[value ="2"]', 'searching... ')
+2021-06-17 12:55:17,998 - app.logger - INFO - ('css selector', 'option[value ="2"]', 'found. ')
+2021-06-17 12:55:18,025 - app.logger - INFO - ('id', 'CountryCode', 'searching... ')
+2021-06-17 12:55:18,370 - app.logger - INFO - ('id', 'CountryCode', 'found. ')
+2021-06-17 12:55:18,381 - app.logger - INFO - ('id', 'CountryCode', 'searching... ')
+2021-06-17 12:55:18,387 - app.logger - INFO - ('id', 'CountryCode', 'found. ')
+2021-06-17 12:55:18,395 - app.logger - INFO - ('css selector', 'option[value ="SG"]', 'searching... ')
+2021-06-17 12:55:18,402 - app.logger - INFO - ('css selector', 'option[value ="SG"]', 'found. ')
+2021-06-17 12:55:18,430 - app.logger - INFO - ('id', 'qaTestSubmit', 'searching... ')
+2021-06-17 12:55:18,439 - app.logger - INFO - ('id', 'qaTestSubmit', 'found. ')
+2021-06-17 12:55:18,471 - app.logger - INFO - ('css selector', '.btn.btn--primary', 'searching... ')
+2021-06-17 12:55:24,506 - app.logger - INFO - ('css selector', '.btn.btn--primary', 'found. ')
+2021-06-17 13:04:51,180 - app.logger - INFO - 
+Started scenario: Evo Checkout UX is invoked
+2021-06-17 13:04:54,861 - app.logger - INFO - 
+Started step: <given "Enter eSW test harness">
+2021-06-17 13:04:57,396 - app.logger - INFO - ('id', 'UserEmail', 'searching... ')
+2021-06-17 13:04:57,410 - app.logger - INFO - ('id', 'UserEmail', 'found. ')
+2021-06-17 13:04:57,578 - app.logger - INFO - ('id', 'UserPass', 'searching... ')
+2021-06-17 13:04:57,588 - app.logger - INFO - ('id', 'UserPass', 'found. ')
+2021-06-17 13:04:57,652 - app.logger - INFO - ('id', 'Submit1', 'searching... ')
+2021-06-17 13:04:57,663 - app.logger - INFO - ('id', 'Submit1', 'found. ')
+2021-06-17 13:04:58,559 - app.logger - INFO - 
+Started step: <when "Select end-point - SIT76">
+2021-06-17 13:04:58,559 - app.logger - INFO - ('id', 'targetURL', 'searching... ')
+2021-06-17 13:04:58,570 - app.logger - INFO - ('id', 'targetURL', 'found. ')
+2021-06-17 13:04:58,582 - app.logger - INFO - ('id', 'targetURL', 'searching... ')
+2021-06-17 13:04:58,590 - app.logger - INFO - ('id', 'targetURL', 'found. ')
+2021-06-17 13:04:58,603 - app.logger - INFO - ('css selector', 'option[value ="SIT76"]', 'searching... ')
+2021-06-17 13:04:58,612 - app.logger - INFO - ('css selector', 'option[value ="SIT76"]', 'found. ')
+2021-06-17 13:04:58,645 - app.logger - INFO - 
+Started step: <when "Select JSON: Number of lines - 1; XA/XP - XP">
+2021-06-17 13:04:58,645 - app.logger - INFO - ('id', 'JsonFiles', 'searching... ')
+2021-06-17 13:04:58,657 - app.logger - INFO - ('id', 'JsonFiles', 'found. ')
+2021-06-17 13:04:58,665 - app.logger - INFO - ('css selector', 'option[value ="2"]', 'searching... ')
+2021-06-17 13:04:58,838 - app.logger - INFO - ('css selector', 'option[value ="2"]', 'found. ')
+2021-06-17 13:04:58,870 - app.logger - INFO - 
+Started step: <when "Select country - Singapore">
+2021-06-17 13:04:58,871 - app.logger - INFO - ('id', 'CountryCode', 'searching... ')
+2021-06-17 13:04:59,212 - app.logger - INFO - ('id', 'CountryCode', 'found. ')
+2021-06-17 13:04:59,227 - app.logger - INFO - ('id', 'CountryCode', 'searching... ')
+2021-06-17 13:04:59,232 - app.logger - INFO - ('id', 'CountryCode', 'found. ')
+2021-06-17 13:04:59,241 - app.logger - INFO - ('css selector', 'option[value ="SG"]', 'searching... ')
+2021-06-17 13:04:59,250 - app.logger - INFO - ('css selector', 'option[value ="SG"]', 'found. ')
+2021-06-17 13:04:59,282 - app.logger - INFO - 
+Started step: <when "Enter Checkout">
+2021-06-17 13:04:59,282 - app.logger - INFO - ('id', 'qaTestSubmit', 'searching... ')
+2021-06-17 13:04:59,292 - app.logger - INFO - ('id', 'qaTestSubmit', 'found. ')
+2021-06-17 13:04:59,326 - app.logger - INFO - 
+Started step: <then "Verify if EVO Checkout is invoked">
+2021-06-17 13:04:59,326 - app.logger - INFO - ('css selector', '.btn.btn--primary', 'searching... ')
+2021-06-17 13:05:06,343 - app.logger - INFO - ('css selector', '.btn.btn--primary', 'found. ')
+2021-06-17 13:16:34,139 - app.logger - INFO - 
+Started scenario: Verify if calculations are correct in subtotal
+2021-06-17 13:16:37,609 - app.logger - INFO - 
+Started step: <given "Enter eSW test harness">
+2021-06-17 13:16:41,229 - app.logger - INFO - 
+Started step: <when "Select end-point - SIT76">
+2021-06-17 13:16:41,317 - app.logger - INFO - 
+Started step: <when "Select JSON: Number of lines - 1; XA/XP - XP">
+2021-06-17 13:16:41,541 - app.logger - INFO - 
+Started step: <when "Select country - Singapore">
+2021-06-17 13:16:41,971 - app.logger - INFO - 
+Started step: <when "Change price to 50">
+2021-06-17 13:16:42,102 - app.logger - INFO - 
+Started step: <when "Enter Checkout">
+2021-06-17 13:16:42,178 - app.logger - INFO - 
+Started step: <then "Verify if calculations in Subtotal are correct">
+2021-06-17 13:16:46,513 - app.logger - INFO - 
+Step failed: <then "Verify if calculations in Subtotal are correct">
