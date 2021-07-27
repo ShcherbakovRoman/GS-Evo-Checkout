@@ -10,6 +10,7 @@ Feature: Test eSW Checkout UX for Taiwan in Test Environment
     And Enter Checkout
     Then Verify if EVO Checkout is invoked
 
+
   Scenario: Verify if the SLSQ order can be placed
     Given Enter eSW test harness
     When Select end-point - SIT76
